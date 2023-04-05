@@ -1,0 +1,69 @@
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\bin\Debug\secraorg.exe.config
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\bin\Debug\secraorg.exe
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\bin\Debug\secraorg.pdb
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.csprojResolveAssemblyReference.cache
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.Properties.Resources.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.csproj.GenerateResource.Cache
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.exe
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.pdb
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.CADASTRARALUNO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.CADASTRARUSUARIO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.PESQUISARALUNO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.CADASTRARPROFESSOR.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.CADASTRARTURMA.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\obj\Debug\secraorg.Form6.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\bin\Debug\secraorg.exe.config
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.exe
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.pdb
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\bin\Debug\secraorg.exe
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\bin\Debug\secraorg.pdb
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.csprojResolveAssemblyReference.cache
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.PESQUISARALUNO.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.CADASTRARALUNO.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.CADASTRARUSUARIO.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.CADASTRARPROFESSOR.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.CADASTRARTURMA.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.DECLARATRANSFERE.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.DECLARAVAGAS.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.Properties.Resources.resources
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.csproj.GenerateResource.Cache
+C:\Users\Artur D'Angelo\Desktop\secraorg-2014-04-17 (1)\secraorg\secraorg\obj\Debug\secraorg.DECLARACAOSIMPLES.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\bin\Debug\secraorg.exe.config
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.exe
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.pdb
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISARALUNO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARALUNO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARUSUARIO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARPROFESSOR.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARTURMA.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARACAOSIMPLES.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARATRANSFERE.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARAVAGAS.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.Properties.Resources.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csproj.GenerateResource.Cache
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\bin\Debug\secraorg.exe
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\bin\Debug\secraorg.pdb
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.EXIBIRALUNO.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csprojResolveAssemblyReference.cache
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\RdlCompile.cache
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\RdlCompile.compiled
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISARDECLARACAOSIMPLES.resources
+D:\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISASTRANSFERENCIA.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csproj.AssemblyReference.cache
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csproj.SuggestedBindingRedirects.cache
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISARALUNO.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISARDECLARACAOSIMPLES.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.PESQUISASTRANSFERENCIA.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARALUNO.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARUSUARIO.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARPROFESSOR.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.CADASTRARTURMA.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARACAOSIMPLES.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARATRANSFERE.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.DECLARAVAGAS.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.EXIBIRALUNO.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.Properties.Resources.resources
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csproj.GenerateResource.cache
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.csproj.CoreCompileInputs.cache
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.exe
+D:\Artur D'Angelo\Documents\Documentos\Faculdade\IF\3º ano\5º Semestre\Projeto Integrado I\Projeto\Visual Studio\secraorg\secraorg\secraorg\obj\Debug\secraorg.pdb
